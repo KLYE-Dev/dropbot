@@ -1,6 +1,5 @@
 const fs = require('fs');
 const log = require('fancy-log');
-var colors = require('colors');
 const dotenv = require('dotenv');
 dotenv.config();
 let dropBotAcct = process.env.BOT_ACCOUNT;
