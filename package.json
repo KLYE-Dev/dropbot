@@ -1,0 +1,14 @@
+{
+  "name": "dropbot",
+  "version": "0.0.1",
+  "description": "A token giveaway bot for Hive-Engine.com tokens on HIVE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hive"
+  ],
+  "author": "KLYE-Dev",
+  "license": "ISC"
+}
