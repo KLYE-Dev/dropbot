@@ -10,5 +10,13 @@
     "hive"
   ],
   "author": "KLYE-Dev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@hiveio/hive-js": "^0.8.13",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "fancy-log": "^1.3.3",
+    "pm2": "^4.5.1",
+    "sscjs": "0.0.8"
+  }
 }
